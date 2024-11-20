@@ -8,3 +8,6 @@
 section {
     padding-top: 5rem;
 }
+.btn svg{
+    fill: aliceblue;
+}
